@@ -6,6 +6,23 @@ This project involves analyzing a social network dataset using the NetworkX libr
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
+
+### Prerequisites
+
+Before you begin, make sure you have the required libraries installed. You can install them using pip:
+
+pip install networkx matplotlib
+
+### Installing
+
+1. Clone the repository to your local machine:
+
+git clone https://github.com/yourusername/your-repository.git
+
+2. Change the working directory to the project folder:
+
+cd your-repository
+
 You should have a dataset file `fb-messages.edges` in the project folder. You can replace this file with your own dataset.
 
 ## Running the Code
